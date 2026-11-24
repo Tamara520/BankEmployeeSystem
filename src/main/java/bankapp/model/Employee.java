@@ -53,4 +53,3 @@ public class Employee {
                 getFullName(), managerType, department, jobTitle);
     }
 }
-

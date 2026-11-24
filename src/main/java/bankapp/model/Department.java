@@ -48,4 +48,3 @@ public enum Department {
     public String toString() { return label; }
 }
 
-
