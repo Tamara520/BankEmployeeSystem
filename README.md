@@ -48,6 +48,4 @@ If the console is replaced by a GUI, only the View changes.
 - After adding 1 employee: tree has **47 nodes**, **height 6**
 
 ## Use of AI
-Generative AI (Claude) was used for support with code structure, explanations and
-the poster layout. All code was tested, understood and committed by me. Details are
-in the separate AI-use document.
+ I used Generative AI  as a support tool to help me understand the code structure, improve my explanations I understood how everything worked. I also reviewed and committed my final work independently. 
